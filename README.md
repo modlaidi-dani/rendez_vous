@@ -26,6 +26,7 @@ Le projet a 2 applications :
    - Un programme peut avoir plusieurs break time
    - Un travailleur a accès au CRUD de break time
    - Un break time peut être partagé entre plusieurs services de plusieurs compagnies et dans plusieurs programmes
+
 3.**Test** :
    - La majorité des fonctionnalités sont testées avec pytest
      
