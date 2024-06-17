@@ -1,0 +1,7 @@
+migrations/
+*.pyc
+__pycache__/
+venvadmin/
+.idea/
+*.log
+*.bak

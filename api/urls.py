@@ -7,7 +7,7 @@ router.register('profile',ProfileViewset)
 router.register('company',CompanyViewset)
 router.register('service',ServiceViewset,basename='service')
 router.register('break_time',BreakViewset)
-router.register('patch_profile_service',ProfileService)
+router.register('patch_profile_service',ProfileService,basename='patch_profile_service')
 
 
 urlpatterns = [
